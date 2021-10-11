@@ -2,6 +2,7 @@
 // Created by CASIES Eliot  on 06/10/2021.
 //
 
+#include "exercices.h""
 #include "fonctions.h"
 #define TAILLE_TABLEAU_MAX 100
 #define NB_COLONNES 4
